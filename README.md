@@ -10,9 +10,9 @@ Currently improving my skills in frontend development while working on real-worl
 ---
 ## GitHub Stats
 
-![Wisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisdom-Akachukwu-Omerenma&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wisdom-Akachukwu-Omerenma&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdom-Akachukwu-Omerenma&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdom-Akachukwu-Omerenma&layout=compact&theme=default)
 
 ---
 

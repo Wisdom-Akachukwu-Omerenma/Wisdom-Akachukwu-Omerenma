@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hello, I'm Wisdom Akachukwu Omerenma
 
-<!--
-**Wisdom-Akachukwu-Omerenma/Wisdom-Akachukwu-Omerenma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer & Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I’m passionate about building responsive and user-friendly web applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently improving my skills in frontend development while working on real-world projects and growing as a software engineer.
+
+---
+
+## Tech Stack
+
+- HTML5
+
+- CSS3
+
+- JavaScript
+
+- React
+
+- Git & GitHub
+
+---
+
+## Currently Learning
+
+- Advanced React concepts
+
+- Full-stack web development
+
+---
+
+## What I’m Working On
+
+- Responsive websites
+
+- Frontend projects
+
+- Personal portfolio development
+
+- Open-source learning projects
+
+---
+
+## Career Goal
+
+To become a skilled software engineer and work on impactful products with global teams.
+
+---
+
+## Connect With Me
+
+- Email: akagodwisdom@gmail.com
+  
+- WhatsApp: +2348038478374
+
+- Instagram: https://instagram.com/ceo_wizzyempire
+
+---
+
+## Fun Fact
+I combine creativity, buisness experiece, and technology to build meaningful digital experience.

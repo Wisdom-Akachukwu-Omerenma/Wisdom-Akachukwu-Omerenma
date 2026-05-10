@@ -8,13 +8,6 @@ I’m passionate about building responsive and user-friendly web applications.
 Currently improving my skills in frontend development while working on real-world projects and growing as a software engineer.
 
 ---
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wisdom-Akachukwu-Omerenma&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdom-Akachukwu-Omerenma&layout=compact&theme=default)
-
----
 
 ## Tech Stack
 
@@ -29,6 +22,9 @@ Currently improving my skills in frontend development while working on real-worl
 - Git & GitHub
 
 ---
+
+## Projects
+Alpine Ascent Mountaineering [View Alpine Ascent Live](https://alpineascentsmountaineering.netlify.app/)
 
 ## Currently Learning
 

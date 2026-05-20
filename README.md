@@ -1,12 +1,15 @@
 # Hello, I'm Wisdom Akachukwu Omerenma
-Frontend Developer | React Learner | Aspiring Software Engineer
+Business Development & Sales Support Professional | Customer Relations | Lead Generation | Frontend Developer
 
 ## Frontend Developer & Aspiring Software Engineer
 
-I’m passionate about building responsive and user-friendly web applications.  
+Business-oriented professional with experience in customer relations, sales support, and business operations since 2015. Currently expanding my expertise in technology, web development, and remote collaboration tools.
 
-Currently improving my skills in frontend development while working on real-world projects and growing as a software engineer.
+Skilled in communication, relationship management, digital organization, and problem-solving. Passionate about helping businesses grow through strong customer support, lead generation, and modern digital solutions.
 
+Experienced with HTML, CSS, JavaScript, React.js, GitHub, and responsive web development alongside real-world business and customer interaction experience.
+
+Open to remote opportunities in customer support, lead generation, business development, virtual assistance, and tech-related support roles.
 ---
 
 ## Tech Stack
@@ -20,6 +23,10 @@ Currently improving my skills in frontend development while working on real-worl
 - React
 
 - Git & GitHub
+
+- Customer Services
+
+- Lead Generation
 
 ---
 

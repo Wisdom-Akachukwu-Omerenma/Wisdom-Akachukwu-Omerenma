@@ -1,21 +1,18 @@
-### Hi, I'm Omerenma Wisdom Chinedu 👋
-🎯 *Personal Support Worker Program*  
-   *New Brunswick Community College, Moncton Campus*  
-   *Start Date: January 6, 2027*
+Hi, I'm Omerenma Wisdom Chinedu 👋 
 
-*Tech Background:* Diploma in Software Engineering, Aptech Computer Education, Onitsha  
-*Healthcare Training:* First Aid Certified | Hospital Internship scheduled July 2026  
-*Goal:* Provide compassionate care in New Brunswick’s long-term care and community health sector
+🎓 **Admitted Health Care Aide Student** 
+Bow Valley College, Calgary, AB 
+Start Date: January 2027 
 
-### Healthcare + Technology
-As Omerenma Wisdom Chinedu, I’m using my software engineering diploma to support healthcare delivery. My focus is digital patient records, healthcare communication tools, and efficient care documentation for PSW practice.
+💻 **Tech Background:** Diploma in Software Engineering, Aptech Computer Education, Onitsha 
+🩺 **Healthcare Training:** First Aid Certified | Healthcare Aide Training at Global Masters Institute 
 
-### Preparing for NBCC:
-- Securing hospital internship letter for study permit application
-- Maintaining First Aid/CPR certification  
-- Developing basic HTML forms for patient intake practice
+**Healthcare + Technology** 
+As Omerenma Wisdom Chinedu, I’m using my software engineering background to support healthcare delivery. 
+My focus: digital patient records, healthcare communication tools, and efficient care documentation for HCA practice. 
 
-### Future in Canada:
-Graduate NBCC PSW → Work in New Brunswick healthcare → Permanent Residency via Atlantic Immigration Program
+**Preparing for Canada:** 
+- Securing hospital experience in Nigeria before relocation 
+- Building skills for long-term care and community health in Alberta 
 
-📧 akagodwisdom@gmail.com | 🇨🇦 Relocating to Moncton, NB January 2027
+**📍 Onitsha, Nigeria → Calgary, AB Jan 2027**
